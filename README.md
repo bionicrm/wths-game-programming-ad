@@ -1,6 +1,6 @@
-# CueIt
+# WTHS Game Programming Ad
 
-A sound cue system.
+An advertisement animation for WTHS Game Programming. Ignore the terrible code ;)
 
 ### Setup
 
